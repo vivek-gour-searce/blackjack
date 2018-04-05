@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*~
+*.sqlite
+.project
+.pydevproject
+*.swp
+*.bak
+*.log
+nohup.out
+*.pid
+.idea
+venv/
+*.conf
